@@ -1,0 +1,63 @@
+2019-07-15 17:01:42,091 [ERROR]  Exception occurred while handling uri: 'http://0.0.0.0:5005/'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-15 17:01:42,146 [ERROR]  Exception occurred while handling uri: 'http://0.0.0.0:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-07-15 17:43:24,109 [ERROR]  Exception occurred while handling uri: 'http://0.0.0.0:5005/'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-15 17:43:24,173 [ERROR]  Exception occurred while handling uri: 'http://0.0.0.0:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-07-15 17:45:57,345 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/facebook/webhook'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /webhooks/facebook/webhook not found
+2019-07-15 17:45:57,398 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-07-15 18:17:54,300 [ERROR]  Exception occurred while handling uri: 'http://0.0.0.0:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/Users/bluelogic/PycharmProjects/bot_kampret/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found

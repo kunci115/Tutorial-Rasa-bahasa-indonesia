@@ -1,0 +1,1 @@
+{"dtype": "<U11", "py/object": "numpy.ndarray", "values": ["bye", "fine_ask", "fine_normal", "greet", "news", "thanks"]}
