@@ -32,17 +32,17 @@ dialog management karena dialog management biasanya mengandung beberapa file dib
 <https://rasa.com/docs/rasa/user-guide/rasa-tutorial/>
 
 #For example:
-First you need to install rasa there, and spacy
-1. Clone this repository
-2. Run rasa shell to test your chatbot
-3. type rasa run to test on backend
+Pertama harus install rasa dulu, itu webnya diatas silahkan dicek
+1. Clone repository ini
+2. ketik rasa shell untuk berinteraksi dengan chatbot
+3. ketik rasa run untuk check di http request
 
 additional command:
 
-if you have more data you can specify it in nlu.md
+Kalo mau edit datanya di data/nlu.md dan stories.md untuk update pengetahuan dari botnya lalu ditrain ulang
 
-and run
-4. Rasa train, to train the model so it can be used to rasa shell/run after
+
+4. Rasa train, untuk training data rasa
 
 
 That's all...
